@@ -1,6 +1,6 @@
 # 🛒 Sistema de Processamento de Pagamentos — User Story
 
-###📌 Contexto
+### 📌 Contexto
 
 Você está trabalhando no time de desenvolvimento de um sistema de e-commerce.
 Uma das funcionalidades principais é o processamento de pagamentos, permitindo que os clientes utilizem diferentes meios:

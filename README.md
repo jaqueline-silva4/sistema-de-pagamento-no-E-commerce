@@ -1,5 +1,5 @@
 # 🛒 Sistema de Processamento de Pagamentos — User Story
----
+
 ### 📌 Contexto
 
 Você está trabalhando no time de desenvolvimento de um sistema de e-commerce.

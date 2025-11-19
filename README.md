@@ -17,7 +17,7 @@ Para isso, todo o desenvolvimento deve seguir os princípios de Programação Or
 
 ---
 
-🎯 Objetivo da Atividade
+### 🎯 Objetivo da Atividade
 
 Projetar e implementar um sistema completo de pagamentos que:
 
